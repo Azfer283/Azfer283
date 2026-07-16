@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&vCenter=true&width=480&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&vCenter=true&width=560&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
 
 <br/>
 
@@ -12,6 +12,7 @@
 
 - 🔥 Building production-scale logistics pipelines at **EPAM Systems** on Databricks
 - 🏅 3× Databricks Certified — Associate, Professional, GenAI
+- 🛠 Currently building an agentic AI monitor that diagnoses its own pipeline failures
 - 📍 Chennai, India
 
 <p>
@@ -61,6 +62,14 @@
 ![DE Assoc](https://img.shields.io/badge/-Data_Engineer_Associate_·_Aug_2025-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
 
 ![GenAI](https://img.shields.io/badge/-Generative_AI_Associate_·_Apr_2026-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
+
+---
+
+### 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</p>
 
 ---
 
