@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Azfer%20Jaffarali&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Chennai&descAlignY=60&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Azfer%20Jaffarali&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Chennai&descAlignY=60&descSize=19"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
@@ -24,27 +24,56 @@ Data Engineer at **EPAM Systems**, building production-scale logistics pipelines
 
 ### Tech Stack
 
-<p align="center">
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-  <img title="Apache Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-  <img title="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-  <img title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="42" height="42"/>&nbsp;&nbsp;
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-  <img title="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-  <img title="Databricks" src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621" height="28"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"/>
+      <br><sub><b>Spark</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45"/>
+      <br><sub><b>Kafka</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="45" height="45"/>
+      <br><sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+      <br><sub><b>Databricks</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/-Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white"/>
+      <br><sub><b>Delta Lake</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45"/>
+      <br><sub><b>GitHub Actions</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Databricks-Certified_Generative_AI_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+<div align="center">
+
+| | Certification | Date |
+|:---:|:---|:---:|
+| <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/> | Data Engineer Professional | Dec 2025 |
+| <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/> | Data Engineer Associate | Aug 2025 |
+| <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/> | Generative AI Associate | Apr 2026 |
+
+</div>
 
 ---
 
@@ -54,10 +83,6 @@ Data Engineer at **EPAM Systems**, building production-scale logistics pipelines
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Azfer283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   &nbsp;
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfer283&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azfer283&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -70,4 +95,4 @@ Data Engineer at **EPAM Systems**, building production-scale logistics pipelines
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
