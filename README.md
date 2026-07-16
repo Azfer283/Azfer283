@@ -1,106 +1,85 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Azfer%20Jaffarali&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Chennai&descAlignY=60&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azfer%20Jaffarali&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Chennai&descAlignY=60&descSize=19"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
-<p align="center">
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&vCenter=true&width=480&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
+
+<br/>
+
+### 👋 About Me
+
+- 🔥 Building production-scale logistics pipelines at **EPAM Systems** on Databricks
+- 🏅 3× Databricks Certified — Associate, Professional, GenAI
+- 📍 Chennai, India
+
+<p>
   <a href="https://linkedin.com/in/azferjaffarali">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:azfer283@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Azfer283&color=58a6ff&style=flat-square&label=views"/>
+  <img src="https://komarev.com/ghpvc/?username=Azfer283&color=7aa2f7&style=flat-square&label=views"/>
 </p>
 
----
+<br clear="right"/>
 
-### About
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:bb9af7,100:7aa2f7"/>
 
-Data Engineer at **EPAM Systems**, building production-scale logistics pipelines on Databricks. Three Databricks certifications. Chennai, India.
+### 🛠 Tech Stack
 
----
+**Data & Streaming**
 
-### Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/-Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"/>
-      <br><sub><b>Spark</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45"/>
-      <br><sub><b>Kafka</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="45" height="45"/>
-      <br><sub><b>Azure</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-      <br><sub><b>Databricks</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.shields.io/badge/-Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white"/>
-      <br><sub><b>Delta Lake</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45"/>
-      <br><sub><b>GitHub Actions</b></sub>
-    </td>
-  </tr>
-</table>
+**Cloud & Platforms**
 
----
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/-ADLS_Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Certifications
+**DevOps**
 
-<div align="center">
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![DAB](https://img.shields.io/badge/-Databricks_Asset_Bundles-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-| | Certification | Date |
-|:---:|:---|:---:|
-| <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/> | Data Engineer Professional | Dec 2025 |
-| <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/> | Data Engineer Associate | Aug 2025 |
-| <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/> | Generative AI Associate | Apr 2026 |
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:bb9af7,100:7aa2f7"/>
 
-</div>
+### 🏆 Certifications
 
----
+<p>
+  <img src="https://img.shields.io/badge/Data_Engineer_Professional-Dec_2025-21222C?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Data_Engineer_Associate-Aug_2025-21222C?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Generative_AI_Associate-Apr_2026-21222C?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621"/>
+</p>
 
-### GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:bb9af7,100:7aa2f7"/>
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Azfer283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azfer283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfer283&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfer283&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 </p>
-
----
-
-### Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Azfer283&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Azfer283&theme=tokyonight&hide_border=true&background=1a1b27"/>
 </p>
-
----
-
-### Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Azfer283&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=20"/>
 </p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
