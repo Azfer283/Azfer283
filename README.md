@@ -87,10 +87,18 @@ Data Engineer at **EPAM Systems**, building production-scale logistics pipelines
 
 ---
 
-### Metrics
+### Streak
 
 <p align="center">
-  <img src="github-metrics.svg" alt="metrics"/>
+  <img src="https://streak-stats.demolab.com/?user=Azfer283&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Azfer283&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=20"/>
 </p>
 
 ---
