@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azfer%20Jaffarali&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Chennai&descAlignY=60&descSize=19"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
+</p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&vCenter=true&width=560&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Databricks+%C2%B7+Azure" alt="Typing SVG"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
 <br/>
 
@@ -62,14 +62,6 @@
 ![DE Assoc](https://img.shields.io/badge/-Data_Engineer_Associate_·_Aug_2025-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
 
 ![GenAI](https://img.shields.io/badge/-Generative_AI_Associate_·_Apr_2026-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
-
----
-
-### 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</p>
 
 ---
 
