@@ -26,7 +26,7 @@
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:bb9af7,100:7aa2f7"/>
+---
 
 ### 🛠 Tech Stack
 
@@ -52,34 +52,24 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-1a1b27?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![DAB](https://img.shields.io/badge/-Databricks_Asset_Bundles-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:bb9af7,100:7aa2f7"/>
+---
 
 ### 🏆 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Data_Engineer_Professional-Dec_2025-21222C?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Data_Engineer_Associate-Aug_2025-21222C?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Generative_AI_Associate-Apr_2026-21222C?style=flat-square&logo=databricks&logoColor=white&labelColor=FF3621"/>
-</p>
+![DE Pro](https://img.shields.io/badge/-Data_Engineer_Professional_·_Dec_2025-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:bb9af7,100:7aa2f7"/>
+![DE Assoc](https://img.shields.io/badge/-Data_Engineer_Associate_·_Aug_2025-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
+
+![GenAI](https://img.shields.io/badge/-Generative_AI_Associate_·_Apr_2026-1a1b27?style=flat-square&logo=databricks&logoColor=FF3621)
+
+---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azfer283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfer283&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Azfer283&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azfer283&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=20&column=7"/>
-</p>
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
