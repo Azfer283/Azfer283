@@ -1,21 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azfer%20Jaffarali&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Databricks%20Certified%20%C3%973&descAlignY=56&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azfer%20Jaffarali&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%7C%20EPAM%20Systems%20%7C%20Chennai&descAlignY=56&descSize=17"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+pipelines+that+process+57B%2B+rows;Delta+Lake+%7C+PySpark+%7C+Azure+%7C+Databricks;3x+Databricks+Certified;Currently+cooking+an+agentic+AI+monitor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+EPAM+Systems;PySpark+%C2%B7+Delta+Lake+%C2%B7+Azure+%C2%B7+Databricks;3x+Databricks+Certified;Turning+raw+data+into+gold" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzferJaffarAli&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Azfer283&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### Who am I
+### About
 
-- Data Engineer @ **EPAM Systems** — production PySpark pipelines on Databricks, 57B+ rows, global logistics platform, two carrier networks
-- **3x Databricks Certified** — Associate → Professional → GenAI Associate
-- Currently building an **agentic AI pipeline monitor** that diagnoses its own failures so I don't have to stare at logs at 2am
-- Chennai, India
+Data Engineer at **EPAM Systems** working on large-scale logistics pipelines — PySpark, Delta Lake, Databricks, Azure. Certified three times over. Based in Chennai.
 
 ---
 
@@ -56,26 +53,11 @@
 
 ---
 
-### GitHub Stats
+### Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzferJaffarAli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzferJaffarAli&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img src="github-metrics.svg" alt="metrics"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AzferJaffarAli&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzferJaffarAli/AzferJaffarAli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzferJaffarAli/AzferJaffarAli/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AzferJaffarAli/AzferJaffarAli/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ---
 
